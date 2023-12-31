@@ -11,6 +11,8 @@ K9 revolutionises the finding of a missing person by efficiently and accurately 
   <li>Alerts the authorities concerned via mail (smtp lib) or a popup message.</li>
   <li>predicted route map is generated.</li>
 </ul>
+
+## Flow Diagram
 <img width="1145" alt="Screenshot 2023-12-31 at 9 10 36 PM" src="https://github.com/SATVIK2610/SecureX/assets/88959905/dbf435dd-1f68-4c52-a453-63e4dfc306db">
 
 ## OPPORTUNITIES
@@ -23,7 +25,7 @@ K9 ensures :
   <li>Efficient data management : Organising the data , make it quickly retrievable, protect it from unauthorized access and ensure data privacy</li>
 </ul>
 
-##Features
+## Features
 <ul>
   <li>Well Designed UI</li>
   <li>Built-in Integration</li>
@@ -32,7 +34,7 @@ K9 ensures :
   <li>Data Privacy & Security</li>
 </ul>
 
-##Tech Stack
+## Tech Stack
 <ul>
   <li>Tkinter</li>
   <li>OpenCV</li>
