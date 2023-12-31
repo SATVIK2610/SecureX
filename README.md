@@ -1,8 +1,8 @@
 # SecureX
 <br>
 K9 revolutionises the finding of a missing person by efficiently and accurately identifying individuals in surveillance footage, social media, and other digital sources. By comparing the victim’s image to a database of images, officials can quickly track a missing person's movement over time by identifying them in multiple images captured at different locations and creating a predictive route map. Furthermore, the app also track down possible suspects by identifying people who may have been in contact with the victim from the feed.
-<br>
-## Steps of Algorithm:
+
+## Steps of Algorithm
 <ul>
   <li>We provide the system with an image of the missing person. The algorithm processes the input through web/social media(API’s & web scraping) and live camera feeds.</li>
   <li>The system detects the faces using YOLO (CNN).</li>
