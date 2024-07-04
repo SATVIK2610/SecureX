@@ -77,8 +77,6 @@ One of the main benefits of using AI face detection mechanisms for searching mis
 
 ## Screenshots and Logo
 
-![k9_final-removebg-preview](https://user-images.githubusercontent.com/122262294/228803689-a525b134-2a6c-4b27-ad9b-7e803464b0b5.png)
-![WhatsApp Image 2023-03-17 at 11 58 31 AM](https://user-images.githubusercontent.com/122262294/228805126-bdad47e1-bb85-4fce-9d34-8a8df4e5f498.jpeg)
 ![WhatsApp Image 2023-03-17 at 11 58 31 AM (1)](https://user-images.githubusercontent.com/122262294/228805203-120af962-4cef-4bff-ac32-2696e888e7cc.jpeg)
 ![WhatsApp Image 2023-03-17 at 11 58 32 AM](https://user-images.githubusercontent.com/122262294/228805318-292813dc-165c-41f3-a39d-17d6116110fd.jpeg)
 ![WhatsApp Image 2023-03-17 at 11 58 32 AM (1)](https://user-images.githubusercontent.com/122262294/228805558-fe9ba56d-f193-4528-9528-ba9d46be5149.jpeg)
